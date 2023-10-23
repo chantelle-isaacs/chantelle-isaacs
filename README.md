@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **chantelle-isaacs/chantelle-isaacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Chantelle Isaacs!</h1>
-<h3 align="center">I'm the Internship Program Manager for [LEARN Academy](www.learnacademy.org)</h3>
+<h3 align="center">I'm the Internship Program Manager for LEARN Academy</h3>
 
 - 😄 Pronouns: She/Her
 
