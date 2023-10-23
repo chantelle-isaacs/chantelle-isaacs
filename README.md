@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me - **chantelle@learnacademy.org**
 
-- 📄 Check out my LinkedIn -  [www.linkedin.com/in/chantelle-isaacs](www.linkedin.com/in/chantelle-isaacs)
+- 📄 Check out my LinkedIn -  [www.linkedin.com/in/chantellerisaacs](www.linkedin.com/in/chantellerisaacs)
   
 - 📅 Book time with me here - [meetings.hubspot.com/chantelle-isaacs](meetings.hubspot.com/chantelle-isaacs)
 
@@ -33,5 +33,5 @@ I'm a key member of our Career Services team, coaching and guiding students in t
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chantellebliss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chantellebliss" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chantelle-isaacs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chantelle-isaacs" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chantellerisaacs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chantelle-isaacs" height="30" width="40" /></a>
 </p>
