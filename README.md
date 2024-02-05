@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Chantelle Isaacs!</h1>
-<h3 align="center">I'm the Internship Program Manager for LEARN Academy</h3>
+<h3 align="center">I'm the Career Services Manager for LEARN Academy</h3>
 
 - 😄 Pronouns: She/Her
 
